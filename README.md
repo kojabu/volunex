@@ -1,20 +1,17 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Volunteer Event Tracker - Rzeszow
+![image](https://github.com/kojabu/volunex/assets/125277383/990e5e72-8ea3-46cb-87db-1f16703c0242)
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Overview
+Welcome to the Volunteer Event Tracker for Rzeszow! This web application allows volunteers to track and participate in events, earn points based on event levels, and view their points and ranks in their profile. Administrators have the ability to manage events, and users can search for events easily.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Features
+Event Participation and Points System: Earn points by participating in events. Points are awarded based on the level of the event.
+Profile and Rankings: View your accumulated points and rank compared to other volunteers in your profile.
+Event Management: Admins can add, change, and delete events.
+Search Functionality: Search for events using keywords contained in the event name.
+Authentication System: Secure login and registration for volunteers.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+# Technologies Used
+Backend: Python, Django
+Database: SQLite
+Frontend: HTML, CSS, JavaScript
